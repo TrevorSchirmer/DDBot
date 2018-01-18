@@ -15,13 +15,13 @@ echo.
 cmd /c "npm install moment"
 echo.
 echo Done!
-echo Creating run files for Selfbot...
+echo Creating run files for DDbot...
 echo ------------------------------------
 echo @echo off > run.bat
 echo :: Created by Sasquatch  [ 1 / 14 / 2018 ] >> run.bat
-echo title Squatch Selfbot >> run.bat
+echo title Squatch DDbot >> run.bat
 echo :START >> run.bat
-echo node mybot.js >> run.bat
+echo node DDBot.js >> run.bat
 echo goto START >> run.bat
 echo "run.bat" File Created.
 echo ------------------------------------
