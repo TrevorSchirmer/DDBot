@@ -2,6 +2,7 @@
 
 ## Requirements
 * JDK1.8
+* Node.js
 
 ## Setup:
 
