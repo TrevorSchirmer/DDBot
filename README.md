@@ -21,8 +21,9 @@ Bot to automate Discord Dungeon
 4. Run run.bat
 5. In discord use "-help" to get list of commands
 
+**Find your User Token.** In browser or desktop Discord, type `Ctrl-Shift-I`. Go to the Application section, and and go to **Storage** > **LocalStorage** > **discordapp.com**. Find the `token` row, and your token will be the value in quotes. **Do not share this token with anyone** This token provides complete access to your Discord account, so never share it!
 
-
+**Find your OwnerID.** In Discord, go to **User Settings** > **Appearance** > Turn on Developer mode under Advanced. Now right click your name and right click your user name. Select copyID. Paste this into config as your userID.
 
 ## Final Notes
 
