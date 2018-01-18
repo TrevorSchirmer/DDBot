@@ -4,6 +4,5 @@
     "ownerID": "###########",
 
 
-    //This is the prefix you put before your DDBot command. "-help"
     "prefix": "-"
 }
