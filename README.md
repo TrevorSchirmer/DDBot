@@ -1,7 +1,7 @@
-[![Downloads](https://img.shields.io/github/downloads/bitsquatch/Discord-Dungeon-Bot/total.svg)](https://github.com/jagrosh/Selfbot/releases/latest)
-[![Release](https://img.shields.io/github/release/bitsquatch/Discord-Dungeon-Bot.svg)](https://github.com/bitsquatch/Discord-Dungeon-Bot/releases/latest)
-[![License](https://img.shields.io/github/license/bitsquatch/Discord-Dungeon-Bot.svg)](https://github.com/bitsquatch/Discord-Dungeon-Bot/blob/master/LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/bitsquatch/Discord-Dungeon-Bot.svg)](https://github.com/bitsquatch/Discord-Dungeon-Bot/graphs/contributors)
+[![Downloads](https://img.shields.io/github/downloads/bitsquatch/DDBot/total.svg)](https://github.com/bitsquatch/DDBot/releases/latest)
+[![Release](https://img.shields.io/github/release/bitsquatch/DDBot.svg)](https://github.com/bitsquatch/DDBot/releases/latest)
+[![License](https://img.shields.io/github/license/bitsquatch/DDBot.svg)](https://github.com/bitsquatch/DDBot/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/bitsquatch/DDBot.svg)](https://github.com/bitsquatch/DDBot/graphs/contributors)
 
 # Discord-Dungeon-Bot
 Bot to automate Discord Dungeon
