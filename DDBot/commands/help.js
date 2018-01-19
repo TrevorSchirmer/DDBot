@@ -12,8 +12,8 @@ exports.run = (client, message, args) => {
     
 
     //For
-    message.channel.send("'-forage'   Run side skills 10 times").catch(console.error);
-    message.channel.send("'-forage x'  Run side skills x times").catch(console.error);
+    message.channel.send("'-skills'   Run side skills 10 times").catch(console.error);
+    message.channel.send("'-skills x'  Run side skills x times").catch(console.error);
 
     //Gen
     message.channel.send("To stop the bot close the terminal opened when you ran it").catch(console.error);

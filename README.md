@@ -26,8 +26,8 @@ Bot to automate Discord Dungeon
 
 ## How to use
 * '-help' shows usable commands
-* '-forage' executes #!chop, #!mine, #!fish, #!forage every 300-350 seconds 10 times
-* '-forage x' executes #!chop, #!mine, #!fish, #!forage every 300-350 seconds x times. x is an integer you enter. (ex. -forage 20)
+* '-skills' executes #!chop, #!mine, #!fish, #!forage every 300-350 seconds 10 times
+* '-skills x' executes #!chop, #!mine, #!fish, #!forage every 300-350 seconds x times. x is an integer you enter. (ex. -forage 20)
 * '-adv' executes #!adv 2 every 15-20 seconds 10 times (Watch your health!)
 * '-adv x' executes #!adv 2 every 15-20 seconds x times. x is an integer you enter (Watch your health!)
 
