@@ -14,7 +14,7 @@ Bot to automate Discord Dungeon
 
 ## Setup:
 
-1. Download the latest release. 
+1. Download the latest [release](https://github.com/BitSquatch/DDBot/releases/latest). 
 2. Run the installer.bat
 3. Input your information into the config.json
 4. Run run.bat
