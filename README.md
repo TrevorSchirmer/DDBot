@@ -10,8 +10,7 @@ Bot to automate Discord Dungeon
 ## DDBot
 
 ## Requirements
-* JDK1.8
-* Node.js
+* [Node.js](https://nodejs.org/en/download/)
 
 ## Setup:
 
